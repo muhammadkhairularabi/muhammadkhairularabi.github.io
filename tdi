@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <body>
+        <table>
+            <h1 class="judul"><center>Formulir Pendaftaran Perpustakaan</center></h1>
+        </table>
+            <table>
+                <tr>
+                    <td><label for="Nama">Nama</label></td>
+                    </tr>
+                    <tr>
+                    <td><input type="text" placeholder="Nama"></td>
+                </tr>
+                    </table>
+                    <br>
+                    <table>
+                        <tr>
+                            <td>Kelas</td>
+                            </tr>
+                          <tr>
+                            <td><select name="" id="">
+                                <option value="">X</option>
+                                <option value="">XI</option>
+                                <option value="">XII</option>
+                            </select></td>
+                        </tr>
+                    </table>
+                    <br>
+                    <table>
+                        <tr>
+                           <td>Jenis Kelamin</td>
+                           </tr>
+                           <tr>
+                            <td><select name="" id="">
+                            <option value="">Laki-Laki</option>
+                            <option value="">Perempuan</option>
+                               </select> </td>
+                               </tr>
+                               </table>
+                               <br>
+                                    <table>
+                                        <tr>
+                                            <td><label for="Nama">Alamat</label></td>
+                                            </tr>
+                                            <tr>
+                                            <td><input type="text" placeholder="Alamat"></td>
+                                        </tr>
+                                    </table>
+      <br>
+      <table>
+        <tr>
+            <td>Tempat dan Tanggal Lahir</td>
+            </tr>
+            <tr>
+            <td><input type="text" placeholder="Lokasi"></td>
+            <td><input type="date"></td>
+        </tr>
+      </table>
+      <br>
+      <table>
+        <tr>
+            <td><label for="Nama">No. HP</label></td>
+        </tr>
+        <tr>
+            <td><input type="text" placeholder="No.HP"></td>
+        </tr>
+      </table>
+    </body>
+</html>
